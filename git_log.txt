@@ -1,0 +1,44 @@
+commit 0ca54ed3b6a96c49784fd508bbe1b845bc0875c3
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:55:22 2026 -0800
+
+    Update index.html
+
+commit 19d02c24c5115412c0286c0027fa43a3b93a3286
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:53:10 2026 -0800
+
+    Update index.html
+
+commit 1686120623a22e35a736070943b89b7f8569a36e
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:32:36 2026 -0800
+
+    Update README.md
+
+commit dc42a82880233e429aa9229ae657d89b1a07bcce
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:32:12 2026 -0800
+
+    Create README.md
+
+commit 07fee7997ae7fd51eef467a75915f6659af4086d
+Merge: 1d2bfc0 cfb2995
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:27:00 2026 -0800
+
+    Merge pull request #1 from Nemui-Tenshi/info-fill
+    
+    Filled in the blanks
+
+commit cfb29950d6b9fa3162f2625f6608e8c7155983a4
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 5 20:15:08 2026 -0800
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
